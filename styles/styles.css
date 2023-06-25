@@ -344,11 +344,11 @@ body {
 .project-description a {
     margin-left: 1rem;
     color: aliceblue;
-    display: block;
+    display: block !important;
     padding: .5rem;
     /* text-decoration: none; */
-    font-family: 'helvetica';
-    font-weight: 900;
+    font-family: 'Geologica', sans-serif;
+    font-weight: 400;
 }
 
 /* contact section */
