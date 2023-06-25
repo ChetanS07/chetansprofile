@@ -302,6 +302,7 @@ body {
     padding: .2rem 1rem;
 }
 
+
 .project-no {
     margin: 0;
     padding: 1.3rem;
@@ -329,17 +330,25 @@ body {
     font-size: 1rem;
     line-height: 1.2rem;
     margin: 0;
-    padding: 1rem;
+    padding: .6rem;
     border-radius: 0 0 1rem 1rem;
 
-    /* border: 1px solid; */
-
     background-color: #321F28;
+}
+
+.project-link {
+    width: 100%;
+    border: 1px solid;
 }
 
 .project-description a {
     margin-left: 1rem;
     color: aliceblue;
+    display: block;
+    padding: .5rem;
+    /* text-decoration: none; */
+    font-family: 'helvetica';
+    font-weight: 900;
 }
 
 /* contact section */
