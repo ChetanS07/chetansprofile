@@ -347,8 +347,10 @@ body {
     display: block !important;
     padding: .5rem;
     /* text-decoration: none; */
-    font-family: 'Geologica', sans-serif;
-    font-weight: 400;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    letter-spacing: .5px;
+    font-size: 1.05rem;
 }
 
 /* contact section */
