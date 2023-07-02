@@ -473,6 +473,10 @@ body {
     .intro {
         gap: 1.5rem;
     }
+    
+    .name span{
+    	font-size:2.5rem;
+    }
 
     .description {
         padding: 1%;
